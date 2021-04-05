@@ -16,7 +16,7 @@ In this application, we flip through a set of jokes using a third-party API. The
 
 ## Final Product
 
-![video sample of project]()
+![video sample of project](./attachments/Dad-Jokes-and-8-more-pages-Work.gif)
 
 ## Technologies
 
